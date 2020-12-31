@@ -5,3 +5,4 @@ node_modules
 config/confiv.env
 
 config.env
+.DS_Store
